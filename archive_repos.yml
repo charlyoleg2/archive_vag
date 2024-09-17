@@ -1,0 +1,13 @@
+# archive_repos.yml
+
+repositories:
+  repos/archive:
+    type: git
+    url: git@github.com:MYNAME/archive.git
+    version: main
+  repos/create-archive:
+    url: git@github.com:MYNAME/create-archive.git
+    version: main
+  repos/archive_vag:
+    url: git@github.com:MYNAME/archive_vag.git
+    version: main
