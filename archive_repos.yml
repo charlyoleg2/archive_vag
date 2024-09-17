@@ -1,13 +1,19 @@
 # archive_repos.yml
 
 repositories:
-  repos/archive:
-    type: git
-    url: git@github.com:MYNAME/archive.git
-    version: main
-  repos/create-archive:
-    url: git@github.com:MYNAME/create-archive.git
-    version: main
   repos/archive_vag:
-    url: git@github.com:MYNAME/archive_vag.git
+    type: git
+    url: git@github.com:charlyoleg2/archive_vag.git
+    version: main
+  repos/subg:
+    url: git@github.com:charlyoleg2/subg.git
+    version: main
+  repos/parame_paxApps:
+    url: git@github.com:charlyoleg2/parame_paxApps.git
+    version: main
+  repos/link_issue:
+    url: git@github.com:charlyoleg2/link_issue.git
+    version: main
+  repos/svgfiles2js:
+    url: git@github.com:charlyoleg2/svgfiles2js.git
     version: main

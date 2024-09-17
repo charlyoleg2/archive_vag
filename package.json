@@ -5,10 +5,10 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MYNAME/archive_vag.git"
+		"url": "git+https://github.com/charlyoleg2/archive_vag.git"
 	},
-	"homepage": "https://github.com/MYNAME/archive_vag#readme",
-	"author": "MYNAME",
+	"homepage": "https://github.com/charlyoleg2/archive_vag#readme",
+	"author": "charlyoleg2",
 	"license": "ISC",
 	"keywords": [
 		"archive",

@@ -18,7 +18,7 @@ Getting started
 ---------------
 
 ```bash
-git clone https://github.com/MYNAME/archive_vag
+git clone https://github.com/charlyoleg2/archive_vag
 cd archive_vag
 npm i
 npm run
